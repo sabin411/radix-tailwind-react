@@ -15,10 +15,10 @@ To set up the project locally, follow these steps:
 The project consists of two pages that showcase the usage of Radix UI components with Tailwind CSS styling. Below are the URLs for accessing these pages:
 
 - http://localhost:5173/accordion: This page demonstrates the usage of the accordion component provided by Radix UI. The accordion component allows you to create expandable and collapsible sections of content.
-  ![Accordion Demo](./src/assets/accordion.gif)
+  ![Accordion Demo](./src/assets/accordion_1.gif)
 
 - http://localhost:5173/tool-bar: This page showcases the toolbar component provided by Radix UI. The toolbar component is used to create a horizontal bar containing various actions or navigation elements.
-  ![Accordion Demo](./src/assets/toolbar.gif)
+  ![Accordion Demo](./src/assets/toolbar_1.gif)
 
 Both pages leverage the power of Tailwind CSS to style the Radix UI components. Tailwind CSS is a highly compatible styling framework that seamlessly integrates with Radix UI and provides extensive utility classes for easy and efficient styling.
 
