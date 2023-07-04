@@ -34,6 +34,6 @@ If you want to contribute to this project, please follow the guidelines below:
 5. Open a pull request.
 
 ### Acknowledgements
-[Tailwind CSS](https://tailwindcss.com/)
-[Radix UI](https://www.radix-ui.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Radix UI](https://www.radix-ui.com/)
 Feel free to explore the project and leverage the integration of Radix UI components with Tailwind CSS for building stylish and accessible web applications.
