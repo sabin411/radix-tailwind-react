@@ -6,8 +6,8 @@ This project is a React-based demonstration of how to integrate Tailwind CSS and
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository: git clone [repository_url](https://github.com/sabin411/radix-tailwind-react)
-2. Navigate to the project directory: cd [/radix-ui-proj](/radix-ui-proj)
+1. Clone the repository: `git clone [https://github.com/sabin411/radix-tailwind-react]`
+2. Navigate to the project directory: `cd [/radix-ui-proj]`
 3. Install the dependencies: npm install
 
 ### Usage
