@@ -1,13 +1,17 @@
 # React Project with Tailwind and Radix UI
+
 This project is a React-based demonstration of how to integrate Tailwind CSS and Radix UI to create high-quality design systems and web applications. Radix UI provides unstyled, accessible components, while Tailwind CSS is used to style and customize these components according to our design requirements.
 
 ## Installation
+
 To set up the project locally, follow these steps:
 
-1. Clone the repository: git clone [repository_url]
-2. Navigate to the project directory: cd [project_directory]
+1. Clone the repository: `git clone [repository_url](https://github.com/sabin411/radix-tailwind-react)`
+2. Navigate to the project directory: `cd [project_directory](/radix-ui-proj)`
 3. Install the dependencies: npm install
+
 ### Usage
+
 The project consists of two pages that showcase the usage of Radix UI components with Tailwind CSS styling. Below are the URLs for accessing these pages:
 
 - http://localhost:5173/accordion: This page demonstrates the usage of the accordion component provided by Radix UI. The accordion component allows you to create expandable and collapsible sections of content.
@@ -19,12 +23,15 @@ The project consists of two pages that showcase the usage of Radix UI components
 Both pages leverage the power of Tailwind CSS to style the Radix UI components. Tailwind CSS is a highly compatible styling framework that seamlessly integrates with Radix UI and provides extensive utility classes for easy and efficient styling.
 
 ### Technologies Used
+
 The following technologies and frameworks were used in this project:
 
 - React: A popular JavaScript library for building user interfaces.
 - Tailwind CSS: A highly customizable CSS framework that enables rapid UI development.
 - Radix UI: A set of accessible and unstyled components for building high-quality design systems and web applications in React.
+
 ### Contributing
+
 If you want to contribute to this project, please follow the guidelines below:
 
 1. Fork the repository.
@@ -34,6 +41,7 @@ If you want to contribute to this project, please follow the guidelines below:
 5. Open a pull request.
 
 ### Acknowledgements
+
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Radix UI](https://www.radix-ui.com/)
 
